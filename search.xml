@@ -22,8 +22,8 @@
       </categories>
       <tags>
         <tag>编程语言</tag>
-        <tag>错误处理</tag>
         <tag>Rust</tag>
+        <tag>错误处理</tag>
         <tag>Monad</tag>
         <tag>Union Type</tag>
       </tags>
